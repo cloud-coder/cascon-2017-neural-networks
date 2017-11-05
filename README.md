@@ -23,4 +23,4 @@ The fastest way to get a local environment suitable to run jupyter notebooks wit
 You can load the [notebook](scikit-learn/lab/lab-part1.ipynb) in this repository into the [IBM Data Science Experience](https://datascience.ibm.com/) (i.e. DSX) solution.
 
 # Part 2 - Introduction Neural Networks
-This is an introduction
+This is an introduction to neurla networks using the MNIST data set.
