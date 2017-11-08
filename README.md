@@ -1,5 +1,5 @@
 # CASCON 2017 - Neural Networks Workshop
-This repository contains the artifacts during a presentation at [CASCON 2017](https://www-01.ibm.com/ibm/cas/cascon/)
+This repository contains the Neural Network workshop material delivered at [CASCON 2017](https://www-01.ibm.com/ibm/cas/cascon/)
 
 The workshop was delivered in two major parts
 
